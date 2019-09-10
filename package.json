@@ -1,7 +1,7 @@
 {
-  "name": "format-key-pair-list",
+  "name": "format-key-value-list",
   "version": "1.0.0",
-  "description": "Format key-value pairs programmatically from a config file",
+  "description": "Format key-value pairs from a config file",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
