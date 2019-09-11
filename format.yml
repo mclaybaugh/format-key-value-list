@@ -1,0 +1,10 @@
+beforeHeading: <h3>
+afterHeading: </h3>
+beforeList: <ul>
+afterList: </ul>
+beforeItem: <li>
+afterItem: </li>
+beforeKey: <strong>
+afterKey: :</strong>
+beforeValue: ''
+afterValue: ''

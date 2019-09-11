@@ -1,0 +1,10 @@
+beforeHeading: <h3>
+afterHeading: </h3>
+beforeList: <dl>
+afterList: </dl>
+beforeItem: ''
+afterItem: ''
+beforeKey: <dt>
+afterKey: </dt>
+beforeValue: <dd>
+afterValue: </dd>
